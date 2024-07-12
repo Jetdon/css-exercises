@@ -1,17 +1,4 @@
-p {
-    background-color:rgb(255, 182, 193);
+.odd {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-p:third-line {
-    font: size 24px;
-}
-
-div:second-line{
-    color:rgb(0, 0, 255);
-    font-size: 36px;
-}
-div:fourth-line{
-    background-color: rgb(90, 255, 90);
-    font-size: 24px;
-    font-weight: bold;
+    background-color: rgb(255, 182, 193);
 }
