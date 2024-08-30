@@ -1,0 +1,15 @@
+.mono
+.bee {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman';
+}
+
+.mono {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.bee {
+    background-color: yellow;
+}
